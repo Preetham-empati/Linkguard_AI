@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">trustsphere</string>
+    <string name="accessibility_description">TrustSphere needs accessibility permissions to monitor for suspicious activity and protect your financial information.</string>
+</resources>
